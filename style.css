@@ -1,0 +1,56 @@
+
+
+body{
+    background-color: #D2D5DA;
+    background-color: #F8FAFC;
+    margin: 0px;
+    
+    font-family: 'Inter',sans-serif;
+}
+header{
+    background-color: #FFFFFF;
+    height: 100px;
+    text-align: center;
+    padding: 40px;
+   
+
+}
+/* Globals */
+a{
+    text-decoration: none;
+    color: #4E80EE;
+
+}
+
+ul {
+    padding: 0px;
+    line-height: 1.9;
+}
+ol{
+    padding: 0px;
+    line-height: 1.9;
+}
+
+.uno{
+     width: 600px; 
+    /* display: grid;
+    justify-content: center;
+    justify-items: start; */
+  
+    padding: 0;
+   
+    margin: 0px auto;
+    border-bottom: 1px solid;
+    
+}
+
+.dos{
+    width: 600px; 
+   
+    margin: 0px auto;
+}
+footer{
+    width: 600px; 
+  
+    margin: 0px auto;
+}
